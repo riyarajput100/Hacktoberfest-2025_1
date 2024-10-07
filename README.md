@@ -41,7 +41,7 @@
 <details>
 <summary><b>Web Based (Easy)</b></summary>
 
-video
+https://github.com/user-attachments/assets/d00c7c8f-f55a-4108-9b7f-968cc3cda431
 
 </details>
 
