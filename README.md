@@ -13,11 +13,9 @@
 ## Contributors of `Hacktoberfest`
 
 <div align="center">
-
-<a href="https://github.com/Shizu-ka/Hacktoberfest-2024 /graphs/contributors">
+<a href="https://github.com/Shizu-ka/Hacktoberfest-2024/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2024" />
-</a>
-  
+</a>  
   </div>
 
 ## This Project Is Perfect For Your First Pull Request
@@ -30,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/hacktoberfest--blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/shizu-ka" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+ <a href="https://github.com/Shizu-ka" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
 <a href="https://github.com/Shizu-ka/Hacktoberfest-2024/pulls"><img src="https://img.shields.io/github/issues-pr/Shizu-ka/Hacktoberfest-2024" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Shizu-ka/Hacktoberfest-2024/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Shizu-ka/Hacktoberfest-2024?color=2b9348"></a>
