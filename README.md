@@ -101,15 +101,15 @@ hobby: Swimming/ Code in Java
 
 ## 3. Create / Upload Your Code / Algorithms
 
-Create/Upload your code in the folder following the convention `Add Code Here`
+Create/Upload your code in the folder following the convention `Codes`
 - Choose an extract language folder `drop your code`
 - Below is `an example` to add file properly
 - You can follow up `any languages`
 ```
-Add Code Here/PYTHON/<YOUR-FILERNAME>.py
+Codes/PYTHON/<YOUR-FILERNAME>.py
 ```
 ```
-Add Code Here/C++/<YOUR-FILERNAME>.cpp
+Codes/C++/<YOUR-FILERNAME>.cpp
 ```
 You can follow any pathway a `code` or `profile information`
 
