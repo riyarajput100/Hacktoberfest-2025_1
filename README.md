@@ -13,16 +13,9 @@
 ## Contributors of `Hacktoberfest`
 
 <div align="center">
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-  
+<a href="https://github.com/Shizu-ka/Hacktoberfest-2024/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2024" />
+</a>  
   </div>
 
 ## This Project Is Perfect For Your First Pull Request
