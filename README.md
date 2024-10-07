@@ -14,9 +14,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Shizu-ka/Hacktoberfest-2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2024" />
-</a>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
   
   </div>
 
