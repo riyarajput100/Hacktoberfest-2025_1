@@ -13,8 +13,8 @@
 ## Contributors of `Hacktoberfest`
 
 <div align="center">
-<a href="https://github.com/Shizu-ka/Hacktoberfest-2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2024" />
+<a href="https://github.com/Shizu-ka/Hacktoberfest-2025/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2025" />
 </a>  
   </div>
 
