@@ -9,7 +9,7 @@
 
 # HacktoberFest  `OPEN FIRST` Pull Request 🎉 
 
-![HacktoberFest](https://github.com/user-attachments/assets/8d7d4791-8fe8-4e05-bd4e-67bd8fd2a9a0)
+<img width="1201" height="631" alt="logo (3)" src="https://github.com/user-attachments/assets/8b327727-00eb-466f-bb07-63fbd98bcb77" />
 
 ## Contributors of `Hacktoberfest`
 
